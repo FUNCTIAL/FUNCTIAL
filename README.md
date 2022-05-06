@@ -1,4 +1,10 @@
-### Hi there 👋
+## TEERATHAD U.
+
+> _The cost of a thing is the amount of what I will call life which is required to be exchanged for it, immediately or in the long run._  
+> **Henry David Thoreau**
+
+- 🌱 I’m currently learning "[The Odin Project](https://www.theodinproject.com/)"
+
 
 <!--
 **teerathadu/teerathadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

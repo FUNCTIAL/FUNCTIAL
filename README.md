@@ -1,4 +1,4 @@
-## TEERATHAD U.
+## TEERATHAD U. // GR1DSYSTEM
 
 > _The cost of a thing is the amount of what I will call life which is required to be exchanged for it, immediately or in the long run._  
 > **Henry David Thoreau**
